@@ -1,0 +1,2 @@
+# Detection_of_Illegal_Bitcoin_Transactions_and_Anti-Money_Laundering
+针对比特币交易 网络中非法节点隐蔽性强、样本分布极度不平衡等挑战，提出了一种融合图神经网络与集成 学习的检测框架。实验基于Elliptic数据集，对比分析了GCN、GAT、GraphSAGE及GIN 四种图表征学习模型在非法节点识别中的性能差异，并进一步提出GIN与XGBoost耦合的 混合模型。
